@@ -6,12 +6,6 @@ I'm currently exploring modern web technologies, AI applications, and open-sourc
 
 ## 💼 Experience
 
-**Software Development Intern | Infynexa Technologies**
-
-- Contributed to the development of production applications including **VeriDetect** and **News Weaver Image Enhancer**
-- Implemented frontend features using React and TypeScript
-- Fixed bugs, improved existing functionality, and collaborated using Git and GitHub
-
 ## 🚀 Featured Projects
 
 Coming soon...
